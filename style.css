@@ -3,3 +3,15 @@ body{
 
 }
 p { color: white; }
+a {color: red;}
+
+.vegan{color: black;}
+
+#backround {background-color: white;}
+
+#font{font-family: "Comic Sans MS", cursive, sans-serif}
+
+.title{height: 60px; width: 100%}
+.content{position: relative;}
+.sidebar{background-color: white; position: absolute; top: 0xp; left: 100%}
+.container{position: absolute; top: 0xp; left: 200px}
